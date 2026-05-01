@@ -1,0 +1,6 @@
+# The Cool Auntie Shop - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://thecoolauntieshop.com/sitemap.xml
