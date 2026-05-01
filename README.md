@@ -1,4 +1,4 @@
-# 🍫 The Cool Auntie Shop — Portfolio Project
+# 🍫 The Cool Auntie Shop * Portfolio Project
 
 Static website built for **The Cool Auntie**, a real small business selling homemade, high-protein healthy desserts in Costa Rica. Portfolio project showcasing UI design, responsive layout, and dependency-free vanilla JavaScript.
 
