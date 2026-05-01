@@ -8,7 +8,7 @@ Static website built for **The Cool Auntie**, a real small business selling home
 
 ## About the project
 
-Full design and development of a single-page website for a real client. The goal was to create an attractive, functional experience that lets the owner showcase her products, present subscription plans, and receive orders directly through WhatsApp — with no backend or third-party platforms required.
+Full design and development of a single page website for a real client. The goal was to create an attractive, functional experience that lets the owner showcase her products, present subscription plans, and receive orders directly through WhatsApp, with no backend or third-party platforms required.
 
 ---
 
